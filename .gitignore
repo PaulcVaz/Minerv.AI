@@ -1,0 +1,16 @@
+node_modules/
+dist/
+data/
+data-*/
+tmp/
+experiments/
+AI_Video_Studio_Requisitos_MVP.pdf
+*.log
+studio.pid
+.env
+.env.*
+!.env.example
+*.sqlite*
+fal-key*
+*.pem
+*.key
